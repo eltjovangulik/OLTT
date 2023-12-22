@@ -1,0 +1,49 @@
+## Contributing to OLTT
+
+We warmly welcome contributions from the community, especially those involved in End User Computing (EUC). Your insights, experiences, and perspectives are invaluable in making OLTT a more effective and versatile tool. Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make to OLTT are **greatly appreciated**.
+
+### Why Your Contribution Matters
+
+As members of the EUC community, you understand the practical challenges and needs of managing and optimizing computing environments. Your hands-on experiences can greatly inform the development of OLTT, ensuring it meets real-world requirements and solves relevant problems.
+
+### How You Can Contribute
+
+1. **Providing Feedback and Ideas**: Share your insights on how OLTT can be more effectively used within EUC environments. Suggest features, improvements, or report issues.
+2. **Writing Code**: Improve existing code or add new features. We value your technical contributions, whether it's refining the core functionality or enhancing user experience.
+3. **Testing**: Help test the tool in different EUC scenarios and provide feedback on its performance.
+4. **Writing Documentation**: Contribute to the project’s documentation to make it more comprehensive and user-friendly.
+5. **Spreading the Word**: Advocate for OLTT within the EUC community. The more it's known and used, the more feedback and contributions we can gather.
+
+### Suggesting Enhancements
+
+- Provide a clear and detailed explanation of the feature or improvement you wish to see.
+- Include examples of how this enhancement would be useful.
+
+### Reporting Bugs or Issues
+
+- Check if the issue has already been reported or fixed in the main branch.
+- Provide a clear and descriptive title.
+- Include any relevant details about your environment (such as the QT Py version, CircuitPython version, etc.).
+- Provide detailed steps to reproduce the issue.
+- Describe the behavior you observed after following the steps and why this is a problem.
+- Suggestions for a fix (if you have any).
+
+### Pull Requests
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m ‘Add some AmazingFeature’`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+### Code of Conduct
+
+This project adheres to a Code of Conduct which all contributors are expected to follow. Please read Code of Conduct before contributing.
+
+## Getting Started
+
+For detailed information about setting up your environment and how the project works, refer to the guide on [Go-EUC](https://www.go-euc.com/measuring-latency-with-adafruit-qt-py-a-circuitpython-approach/).
+
+## Questions or Discussion
+
+If you have any questions or want to discuss ideas, feel free to use our GitHub Discussions page.
