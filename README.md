@@ -39,15 +39,23 @@ The calibration code is currently a work in progress. It will allow users to ach
 
 ## Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make to OLTT are **greatly appreciated**.
+## Contributing to OLTT
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
+We warmly welcome contributions from the community, especially those involved in End User Computing (EUC). Your insights, experiences, and perspectives are invaluable in making OLTT a more effective and versatile tool. Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make to OLTT are **greatly appreciated**.
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+### Why Your Contribution Matters
+
+As members of the EUC community, you understand the practical challenges and needs of managing and optimizing computing environments. Your hands-on experiences can greatly inform the development of OLTT, ensuring it meets real-world requirements and solves relevant problems.
+
+### How You Can Contribute
+
+1. **Providing Feedback and Ideas**: Share your insights on how OLTT can be more effectively used within EUC environments. Suggest features, improvements, or report issues.
+2. **Writing Code**: Improve existing code or add new features. We value your technical contributions, whether it's refining the core functionality or enhancing user experience.
+3. **Testing**: Help test the tool in different EUC scenarios and provide feedback on its performance.
+4. **Writing Documentation**: Contribute to the project’s documentation to make it more comprehensive and user-friendly.
+5. **Spreading the Word**: Advocate for OLTT within the EUC community. The more it's known and used, the more feedback and contributions we can gather.
+
+Read our [CONTRIBUTING.md](https://github.com/eltjovangulik/OLTT/CONTRIBUTING.md) file for more information on making contributions. Don't hesitate to reach out if you have any questions or need guidance on where to start.
 
 ## License
 
